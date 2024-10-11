@@ -22,7 +22,7 @@ const AppHeader = () => {
       <div className="z-10 flex sm:justify-between sm:items-center py-6">
         <div className="flex justify-between items-center px-4 sm:px-0">
           <div>
-            <Link to="/">
+            <Link to="/Portfolio">
               {activeTheme === "dark" ? (
                 <h1 className="text-2xl font-bold text-black">PORTFOLIO</h1>
               ) : (
