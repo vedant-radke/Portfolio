@@ -6659,7 +6659,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["browserslist", "npm:4.14.2"],\
           ["caniuse-lite", "npm:1.0.30001667"],\
-          ["electron-to-chromium", "npm:1.5.35"],\
+          ["electron-to-chromium", "npm:1.5.36"],\
           ["escalade", "npm:3.2.0"],\
           ["node-releases", "npm:1.1.77"]\
         ],\
@@ -6670,7 +6670,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["browserslist", "npm:4.24.0"],\
           ["caniuse-lite", "npm:1.0.30001667"],\
-          ["electron-to-chromium", "npm:1.5.35"],\
+          ["electron-to-chromium", "npm:1.5.36"],\
           ["node-releases", "npm:2.0.18"],\
           ["update-browserslist-db", "virtual:6b67324c878ea06e56ed3caefea53f7683e6ecc2f59a5ccb4eed038528684d5d9ad5763adbad2b939021498b8316c469d622a567bb66012ffd14e8022cf45739#npm:1.1.1"]\
         ],\
@@ -8763,10 +8763,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["electron-to-chromium", [\
-      ["npm:1.5.35", {\
-        "packageLocation": "../../../../../../../../../root/.yarn/berry/cache/electron-to-chromium-npm-1.5.35-c08494529a-10c0.zip/node_modules/electron-to-chromium/",\
+      ["npm:1.5.36", {\
+        "packageLocation": "../../../../../../../../../root/.yarn/berry/cache/electron-to-chromium-npm-1.5.36-6e4a25fa19-10c0.zip/node_modules/electron-to-chromium/",\
         "packageDependencies": [\
-          ["electron-to-chromium", "npm:1.5.35"]\
+          ["electron-to-chromium", "npm:1.5.36"]\
         ],\
         "linkType": "HARD"\
       }]\
